@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## scrumbwitsies.us
 
-You can use the [editor on GitHub](https://github.com/jayammon/scrumbwitsies.us/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+scrum bwitsies - give us as much as you can (or care to) offer in aggregated online (or offline) identity, and the scrum bwitsies app will establish intelligent, personalized coaching suggestions, interventions, or lead you in the right direction, as far as connecting you to the latest and most well-resourced lenders, agencies, and organizations who can help you fulfill your financial goals. Whether it be finding a new place to live or finding better things to do with your time, we work over time, behind the scenes of the scrum bwitsies app in what's special about you and your placement in time to establish you on your way to a more well-supported you!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
